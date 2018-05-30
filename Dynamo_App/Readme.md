@@ -17,4 +17,5 @@
        1.LoginSuccess.jsp>>COrder1.jsp>>ReceiveCOrder.jsp>>COrder2.jsp>>OrderCost.jsp>>Cust_Order_Payment.jsp>>Cust_Order_table.jsp
         2.LoginSuccess.jsp>>Table_COrder.jsp
         
-  ####Same procee goes for Retailer SIgnup,Login and adding Retailer_Product_Details.
+        
+#### Same procee goes for Retailer SIgnup,Login and adding Retailer_Product_Details.
